@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kursova.Form1" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACCAA4AAgAEHAABAAAABY=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.Gear0" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgAAEAAAAAAAAAAEAAAAAEAAAABAAAA=</HashCode>
+      <FileName>Gear0.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.Gear1" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgCEhAAAAAgAAQAAAAAAAAAAAAAAAAAQAAiAAAAA=</HashCode>
+      <FileName>Gear1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.GearZ" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAIAAAgIAAYAAABARAEAAIAAAQAgAAAAAAAAE=</HashCode>
+      <FileName>GearZ.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kursova.GearZ_Rot" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GearZ_Rot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.Program" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.Val" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgQAEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Val.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.ValMove" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQBgAAhAAAAAoAAAAAAAAAAEAAIAAAQAAAAAgAAAAE=</HashCode>
+      <FileName>ValMove.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kursova.Properties.Resources" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Kursova.Rot_obj" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAEAAIAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>G_Send_Resive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Kursova.Side" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAI=</HashCode>
+      <FileName>G_Send_Resive.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Kursova.Move_handler" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G_Send_Resive.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Kursova.Rot_handler" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQAAAACAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>G_Send_Resive.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
